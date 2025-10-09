@@ -10,10 +10,17 @@ This is my journal of the design and building process of **Shaw!**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/329).
 
 
-## 10/9/2025 - Made schematic  
+## 10/9/2025 3 AM - Made schematic  
 
 Started by following the guide; added capacitors to power lines, USB-C and its voltage regulator, crystal oscillator, flash memory and I/O headers. Also researched a bit about decoupling capacitors and piezoelectricity (very cool). Planning to maybe add support for a battery and start making the PCB tomorrow. 
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--bb9e4ee1d2e6fd172886a7babe75f27c082b9916/image.png)
+  
+
+## 10/9/2025 7 PM - Added battery charging  
+
+I added support for battery charging with a Texas Instrument BQ24074 chip to make the devboard more versatile. Also rearranged the schematic to add space for said battery charger without having to expand the schematic and added a nice title. Will take a silksong break and afterwards start making the PCB.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--8b76838f1788c1330a5fb5f4213f7121b56efe22/image.png)
   
 
