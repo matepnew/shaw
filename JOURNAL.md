@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Shaw!**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/329).
-
-
 ## 10/8/2025 - Made schematic  
 
 Started by following the guide; added capacitors to power lines, USB-C and its voltage regulator, crystal oscillator, flash memory and I/O headers. Also researched a bit about decoupling capacitors and piezoelectricity (very cool). Planning to maybe add support for a battery and start making the PCB tomorrow. 
@@ -31,5 +27,12 @@ With the schematics done, I started reading the guide's section on the PCB. As s
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--288520ca4d181aafaeba1237c4cbb78140fa6165/image.png)
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--de9f1e8065006f2b06a57a32d466d7588fc293d5/image.png)
+  
+
+## 10/28/2025 - PCB work  
+
+While working on and off due to other stuff, I added all remaining components to the PCB and routed them. I expanded the PCB a bit to make way for the GPIO tracks, as the components for the battery take up quite a bit of space. Even with the extra space, it was a bit hard to route GPIOs (and everything else to the RP2040 really). Next up, I'll make sure to fix any mistakes, and clean up the silkscreen.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--aebee91c4559372f5674bd646813459091a0d9db/image.png)
   
 
