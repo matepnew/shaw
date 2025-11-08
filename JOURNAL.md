@@ -36,3 +36,14 @@ While working on and off due to other stuff, I added all remaining components to
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--aebee91c4559372f5674bd646813459091a0d9db/image.png)
   
 
+## 11/8/2025 - Final touches  
+
+Fixed the errors that showed up when I ran the DRC, mostly clearance issues and a couple of missing ground connections. After that, I added a little hornet to the silkscreen (I named this project shaw because it was the first thing that came to mind when I started, as I was playing multiple hours of Silksong every day) and my username. Finally, I touched up the README a bit to be able to ship the project.
+
+Here's the (hopefully) final PCB layout
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--14e045036a9f3788af236272d26ff2153f358d46/image.png)
+
+And the 3D model
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTU2NywicHVyIjoiYmxvYl9pZCJ9fQ==--adf00bb6eba691a02857300fd6d22addc3b4de62/image.png)
+  
+
